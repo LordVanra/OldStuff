@@ -1,0 +1,32 @@
+header{
+	text-align:center;
+}
+h1:before,h1:after{
+	content:url("Images/Camera.jpg");
+}
+p:nth-child(3)::first-letter{
+	color:red;
+	font-size:300%;
+	float:left;
+	margin-top:-5px;
+}
+p:nth-child(3)::first-line{
+	color:black;
+	font-weight:bold;
+}
+p:nth-child(4)::first-letter{
+	color:black;
+	font-size:300%;
+	float:left;
+	margin-top:-5px;
+}
+p:nth-child(4)::first-line{
+	color:red;
+	font-weight:bold;
+}
+figure:nth-child(2){
+	text-align:center;
+}
+article figure img{
+	width:15%;
+}

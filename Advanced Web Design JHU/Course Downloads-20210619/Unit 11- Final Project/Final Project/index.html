@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Jumpin' Juice Home Page</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<header id="header">
+			<nav id="big">
+				<a href="index.html">Home</a>
+				<a href="locations.html">Our locations</a>
+				<a href="about.html">About Us</a>
+				<a href="faq.html">FAQs</a>
+				<a href="contact.html">Contact</a>
+			</nav>
+			<h1 id="title1">Jumpin' Juice</h1>
+			<h2 id="title2">Always Fresh. Always Delicious.</h2>
+			<img src="images/logo.jpg" alt="Jumpin' Juice" id="img" />
+		</header>
+		<section>
+		<article id="left">
+		
+		<p> Welcome to Jumpin' Juice! We are commited to serve you tasty, fresh and healthy ingredients in our juices.
+		Click on the images on the right to see some of our juice options. You can find our locations on the <i>&quot;Our Locations&quot;</i> page.
+		Answers to frequently asked questions are on the <i>&quot;FAQs&quot;</i> page. Learn how to contact us and sign up for our mailing list on the  <i>&quot;Contact&quot;</i> page.</p>
+		<p>Here is a sample of the music that we play in our store</p>
+		<audio id="audio" controls>
+			<source src="images/audio.mp3" />
+			<p>Cannot play audio</p>
+		</audio>
+		<p>We make our juices right in front of you so that you can see all the pure, fresh, and organic ingredients that we put in our juices. Here is an video of one of our chefs finishing a glass of orange juice.<p>
+		<figure id="vidcont">
+			<video id="video" controls>
+				<source src="images/video.mp4" />
+				<p>Cannot play video</p>
+			</video>
+			<figcaption>There's nothing like a fresh glass of orange juice on a hot day!</figcaption>
+		</figure>
+</article>
+		<aside id="right">
+			<h4>Click on any of these images to learn more</h4>
+			<a href="thumblinks/acaiberry.html" target="_blank">
+				<figure>
+					<img src="images/acaijberryjuice.jpg" alt="Acai Berry Juice" class="thumb" />
+					<figcaption></figcaption>
+				</figure>
+			</a>
+			<a href="thumblinks/apple.html" target="_blank">
+				<figure>
+					<img src="images/applejuice.jpg" alt="Apple Juice" class="thumb" />
+					<figcaption></figcaption>
+				</figure>
+			</a>
+			<a href="thumblinks/berry.html" target="_blank">
+				<figure>
+					<img src="images/berrymadness.jpg" alt="Berry Madness" class="thumb" />
+					<figcaption></figcaption>
+				</figure>
+			</a>
+			<a href="thumblinks/cranberry.html" target="_blank">
+				<figure>
+					<img src="images/Cranberry-Juice-Tea.jpg" alt="Cranberry Juice Tea" class="thumb" />
+					<figcaption></figcaption>
+				</figure>
+			</a>
+			<a href="thumblinks/orange.html" target="_blank">
+				<figure>
+					<img src="images/orange-juice-01.jpg" alt="Orange Juice" class="thumb" />
+					<figcaption></figcaption>
+				</figure>
+			</a>
+		</aside>
+		<footer class="lower">
+			<small>
+				&copy; 2021 All rights reserved - Jumpin' Juice
+			</small>
+		</footer>
+		<article id="modal">
+			<p id="x">&times;</p>
+			<p id="txt">Welcome to Jumpin' Juice! Sign up for our mailing list (contact page) and get a free drink coupon redeemable at any store!</p>
+		</article>
+		<script>
+			var modal = document.getElementById("modal");
+			var btn = document.getElementById("x");	
+			setTimeout(function() { modal.style.display = "block"; }, 3000); //fix
+			btn.onclick = function() { modal.style.display = "none"; }
+		</script>
+		</section>
+	</body>
+</html>

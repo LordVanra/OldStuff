@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body		{font-family: sans-serif; }
+/* Simple Modal Box  */
+.modal {
+			position: fixed;
+			display: none;
+			z-index:99;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+			height: 100px;
+			background-color: rgba(0,0,0,.5);
+			color: white;
+			text-align: center;
+			padding: 20px;
+			-webkit-animation-name: slideIn; /* Slide in the modal */
+			-webkit-animation-duration: 2s;
+			animation-name: slideIn;
+			animation-duration: 2s;
+		}
+
+.close	{	
+			color: white;
+			float: right;
+			padding-right: 25px;
+			font-size: 25px;
+		}
+
+/* Change cursor shape when hovering */
+.close:hover,
+.close:focus	{
+					cursor: pointer;
+					text-decoration: none;
+					color: #0000;
+				}
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+  from {bottom: -300px;} 
+  to {bottom: 0;}
+}
+
+@keyframes slideIn {
+  from {bottom: -300px;}
+  to {bottom: 0;}
+}
+</style>
+</head>
+<body>
+
+<h2>Simple Slide-In Bottom Modal Box</h2>
+<!-- Press Button to Open Modal -->
+			<button id="myButton">Open Modal</button>
+<!-- Some page content -->
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a pellentesque risus. Proin hendrerit sapien porttitor malesuada ultricies. Cras consequat rutrum tortor non sollicitudin. Duis sollicitudin, metus in rhoncus consequat, orci mauris feugiat diam, mollis lobortis libero justo vel nunc. Praesent ut velit ultricies sapien venenatis eleifend eget pharetra massa. Maecenas tempor, nulla vel fringilla dapibus, eros quam gravida leo, non faucibus urna elit in tellus. Quisque est tortor, blandit et auctor et, posuere vel eros. Nulla accumsan nisl eget urna posuere porttitor. Vivamus aliquet id orci vitae tincidunt.
+
+Cras tincidunt tempus massa, non convallis neque imperdiet ac. Pellentesque elementum vestibulum placerat. Maecenas ut mollis nisl. In nec sapien ligula. Nulla sed urna in ipsum gravida bibendum. Vestibulum ultrices tortor massa, a laoreet ante dapibus pharetra. Nam et urna vestibulum, rhoncus nibh nec, ullamcorper leo. Proin mollis a mauris quis venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse lobortis auctor ligula et accumsan. Vestibulum suscipit ligula quis tortor pellentesque bibendum. Maecenas condimentum neque at rutrum faucibus. Integer molestie id nibh rhoncus sollicitudin.
+
+Donec sit amet risus risus. Proin ipsum eros, vestibulum et tellus sit amet, volutpat tincidunt urna. Phasellus interdum blandit tempor. Proin at turpis eget sapien pulvinar bibendum. Morbi auctor, elit et rhoncus porta, erat mi elementum libero, a sagittis turpis eros dictum libero. Morbi leo mi, euismod non vestibulum non, mollis vel lectus. Praesent accumsan enim vitae quam laoreet luctus.
+
+Ut tempor enim dolor, vitae malesuada nunc dignissim sed. Duis porttitor dignissim facilisis. Vestibulum sit amet lobortis quam. Praesent lectus nisl, tempor a lobortis non, pharetra in diam. Donec mollis rutrum mauris eu ultrices. Nam non ultrices felis. Sed blandit odio lorem, non vehicula urna blandit quis. Nulla vitae ligula sodales, pellentesque justo quis, vehicula erat. Nam turpis purus, interdum quis aliquet semper, posuere ut mauris. Integer imperdiet ante lectus, at consectetur diam faucibus eu. Nulla et tincidunt mauris. Nunc blandit velit a metus condimentum facilisis. Cras eget interdum orci, sit amet bibendum mi. Quisque in hendrerit justo, ac condimentum metus.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a pellentesque risus. Proin hendrerit sapien porttitor malesuada ultricies. Cras consequat rutrum tortor non sollicitudin. Duis sollicitudin, metus in rhoncus consequat, orci mauris feugiat diam, mollis lobortis libero justo vel nunc. Praesent ut velit ultricies sapien venenatis eleifend eget pharetra massa. Maecenas tempor, nulla vel fringilla dapibus, eros quam gravida leo, non faucibus urna elit in tellus. Quisque est tortor, blandit et auctor et, posuere vel eros. Nulla accumsan nisl eget urna posuere porttitor. Vivamus aliquet id orci vitae tincidunt.
+
+Cras tincidunt tempus massa, non convallis neque imperdiet ac. Pellentesque elementum vestibulum placerat. Maecenas ut mollis nisl. In nec sapien ligula. Nulla sed urna in ipsum gravida bibendum. Vestibulum ultrices tortor massa, a laoreet ante dapibus pharetra. Nam et urna vestibulum, rhoncus nibh nec, ullamcorper leo. Proin mollis a mauris quis venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse lobortis auctor ligula et accumsan. Vestibulum suscipit ligula quis tortor pellentesque bibendum. Maecenas condimentum neque at rutrum faucibus. Integer molestie id nibh rhoncus sollicitudin.
+
+Donec sit amet risus risus. Proin ipsum eros, vestibulum et tellus sit amet, volutpat tincidunt urna. Phasellus interdum blandit tempor. Proin at turpis eget sapien pulvinar bibendum. Morbi auctor, elit et rhoncus porta, erat mi elementum libero, a sagittis turpis eros dictum libero. Morbi leo mi, euismod non vestibulum non, mollis vel lectus. Praesent accumsan enim vitae quam laoreet luctus.
+
+Ut tempor enim dolor, vitae malesuada nunc dignissim sed. Duis porttitor dignissim facilisis. Vestibulum sit amet lobortis quam. Praesent lectus nisl, tempor a lobortis non, pharetra in diam. Donec mollis rutrum mauris eu ultrices. Nam non ultrices felis. Sed blandit odio lorem, non vehicula urna blandit quis. Nulla vitae ligula sodales, pellentesque justo quis, vehicula erat. Nam turpis purus, interdum quis aliquet semper, posuere ut mauris. Integer imperdiet ante lectus, at consectetur diam faucibus eu. Nulla et tincidunt mauris. Nunc blandit velit a metus condimentum facilisis. Cras eget interdum orci, sit amet bibendum mi. Quisque in hendrerit justo, ac condimentum metus.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a pellentesque risus. Proin hendrerit sapien porttitor malesuada ultricies. Cras consequat rutrum tortor non sollicitudin. Duis sollicitudin, metus in rhoncus consequat, orci mauris feugiat diam, mollis lobortis libero justo vel nunc. Praesent ut velit ultricies sapien venenatis eleifend eget pharetra massa. Maecenas tempor, nulla vel fringilla dapibus, eros quam gravida leo, non faucibus urna elit in tellus. Quisque est tortor, blandit et auctor et, posuere vel eros. Nulla accumsan nisl eget urna posuere porttitor. Vivamus aliquet id orci vitae tincidunt.
+
+Cras tincidunt tempus massa, non convallis neque imperdiet ac. Pellentesque elementum vestibulum placerat. Maecenas ut mollis nisl. In nec sapien ligula. Nulla sed urna in ipsum gravida bibendum. Vestibulum ultrices tortor massa, a laoreet ante dapibus pharetra. Nam et urna vestibulum, rhoncus nibh nec, ullamcorper leo. Proin mollis a mauris quis venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse lobortis auctor ligula et accumsan. Vestibulum suscipit ligula quis tortor pellentesque bibendum. Maecenas condimentum neque at rutrum faucibus. Integer molestie id nibh rhoncus sollicitudin.
+
+Donec sit amet risus risus. Proin ipsum eros, vestibulum et tellus sit amet, volutpat tincidunt urna. Phasellus interdum blandit tempor. Proin at turpis eget sapien pulvinar bibendum. Morbi auctor, elit et rhoncus porta, erat mi elementum libero, a sagittis turpis eros dictum libero. Morbi leo mi, euismod non vestibulum non, mollis vel lectus. Praesent accumsan enim vitae quam laoreet luctus.
+
+Ut tempor enim dolor, vitae malesuada nunc dignissim sed. Duis porttitor dignissim facilisis. Vestibulum sit amet lobortis quam. Praesent lectus nisl, tempor a lobortis non, pharetra in diam. Donec mollis rutrum mauris eu ultrices. Nam non ultrices felis. Sed blandit odio lorem, non vehicula urna blandit quis. Nulla vitae ligula sodales, pellentesque justo quis, vehicula erat. Nam turpis purus, interdum quis aliquet semper, posuere ut mauris. Integer imperdiet ante lectus, at consectetur diam faucibus eu. Nulla et tincidunt mauris. Nunc blandit velit a metus condimentum facilisis. Cras eget interdum orci, sit amet bibendum mi. Quisque in hendrerit justo, ac condimentum metus.
+
+</p>
+
+<div id="myModal" class="modal">
+	<span id="mySpan" class="close">&times</span>
+  <p>Some Modal Text Goes Here</p>
+</div>
+<script>
+				var modal = document.getElementById("myModal");			// get the modal box
+				var btn = document.getElementById("myButton");			// get the button
+				var spn = document.getElementsByClassName("close")[0];	// get the span element that closes modal
+				btn.onclick = function() { modal.style.display = "block"; }
+				spn.onclick = function() { modal.style.display = "none"; }
+			</script>
+</body>
+</html> 

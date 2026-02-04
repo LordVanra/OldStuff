@@ -1,0 +1,19 @@
+
+
+#header	{
+			font-size: 30px;
+			color: white;
+			border: 1px solid black;
+			position: fixed;			
+			height: 150px;
+			width: 100%;
+			top: 0;
+			text-align: center;
+			background-color: orange;
+			z-index: 10;
+			transition: height 300ms ease;		/* ensure a smooth height transition */
+		}
+.content	{ 
+				position: relative;		/* Make sure content lines up correctly */
+				top: 150px; 
+			}

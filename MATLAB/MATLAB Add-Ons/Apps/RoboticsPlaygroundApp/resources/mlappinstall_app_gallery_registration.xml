@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toolset id="user_apps_toolset" template="false">
+   <tool app_file_path="./" handler_class="com.mathworks.appmanagement.desktop.ToolboxToolSetExtensionHandler" id="c97ae944-ff5f-4e94-942b-6a70af74e37e" label="Robotics Playground App" toolset_id="user_apps_toolset">
+      <callback>matlab.apputil.run('RoboticsPlaygroundAppAPP')</callback>
+      <summary>Interface to open Robotics Playground library, examples and self-paced lessons.</summary>
+      <description>This app provides an easy entry point to the MATLAB and Simulink Robotics Playground virtual environments.</description>
+      <parent_tool id="my_apps" toolset_id="apps_toolset"/>
+   </tool>
+</toolset>

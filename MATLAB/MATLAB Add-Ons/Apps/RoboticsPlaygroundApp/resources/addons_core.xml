@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>Robotics Playground App</label>
+  <version>1.4</version>
+  <type>app</type>
+  <packagedBy>(R2019b)</packagedBy>
+  <identifier>c97ae944-ff5f-4e94-942b-6a70af74e37e</identifier>
+  <summary>Interface to open Robotics Playground library, examples and self-paced lessons.</summary>
+  <description>This app provides an easy entry point to the MATLAB and Simulink Robotics Playground virtual environments.</description>
+  <createdBy name="MathWorks Student Competitions Team" company="The MathWorks, Inc" email="roboticsarena@mathworks.com"/>
+  <image>resources/screenshot.png</image>
+  <icons>
+    <icon tag="0">resources/icon_48.png</icon>
+    <icon tag="1">resources/icon_24.png</icon>
+    <icon tag="2">resources/icon_16.png</icon>
+  </icons>
+</addonCore>

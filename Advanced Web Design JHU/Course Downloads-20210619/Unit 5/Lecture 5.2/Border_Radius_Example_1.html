@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>The Border-Radius Property</title>
+		<style>
+			body		{ font-family: sans-serif; }
+			p			{ width: 220px; height: 100px; background-color: blue; color: white; text-align: center; float: left; margin: 10px; padding: 10px; }
+			.highlight	{ color: red; font-weight: bold; background-color: white; width: 100%; height: 20px; margin: 0px; padding: 10px;}
+		
+			.border10			{ border: 3px solid red; border-radius: 1em; }
+			.border20			{ border: 3px solid red; border-radius: 2em; }
+			.border30			{ border: 3px solid red; border-radius: 30px; }
+			.border10_20		{ border: 3px solid red; border-radius: 10px 20px; }
+			.border10_30		{ border: 3px solid red; border-radius: 10px 30px; }
+			.border10_30_40		{ border: 3px solid red; border-radius: 10px 30px 40px; }
+						
+		</style>
+	</head>
+	<body>
+		<p class="border10">border-radius: 10px</p>
+		<p class="border20">border-radius: 20px</p>
+		<p class="border30">border-radius: 30px</p>
+		<p class="border10_20">border-radius: 10px 20px</p>
+		<p class="border10_30">border-radius: 10px 30px</p>
+		<p class="border10_30_40">border-radius: 10px 30px 40px</p>
+		<br /><br />
+		
+		<p class="highlight"><code><strong>border-radius: value;</strong></code></p>
+		<p class="highlight"><code><strong>border-radius: top_left top_right bottom_right bottom_left;</strong></code></p>
+		
+	</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Calico Desserts</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<header id="header" class="color">
+			<nav id="nav" class="color">
+				<a href="index.html">Home</a>
+				<a href="about.html">About Us</a>
+				<a href="faq.html">FAQs</a>
+			</nav>
+			<h1 id="title" class="color"> Calico Desserts </h1>
+			<img src="images/CalicoDesserts.PNG" id="img"  class="color" alt="Calico Desserts" />
+		</header>
+		<article>
+			<p class="color">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel cursus nunc, eget vestibulum odio. Aliquam volutpat mauris ligula, vel feugiat felis semper in. Vestibulum nec diam quis risus fermentum sagittis vitae ac augue. Nullam aliquet ultrices urna, placerat tincidunt dolor. Morbi vulputate eros egestas feugiat feugiat. Nunc ut pellentesque libero, vitae ultrices odio. Nunc id sollicitudin erat. Etiam feugiat nisl id arcu pellentesque feugiat. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+			<p class="color">Nunc condimentum blandit mauris sit amet pulvinar. Cras rutrum mattis felis ut rutrum. Nam ex nibh, sollicitudin nec sem eget, eleifend efficitur felis. Vestibulum lobortis molestie mollis. Fusce eu massa eget diam rhoncus cursus eu a justo. Mauris lacus velit, porta nec lectus a, sollicitudin consequat nisl. Mauris nec dictum lacus. Sed eu nibh vestibulum, finibus turpis id, consectetur nisi. Cras quis arcu maximus, imperdiet sem at, rutrum nisl. In lorem nunc, semper vel suscipit vel, laoreet ut sem. Vivamus id turpis quis magna ultrices lacinia. Cras et gravida diam. Fusce venenatis sit amet enim ut vehicula. Ut molestie enim nisl, quis pharetra felis suscipit porta. Curabitur dignissim rhoncus ligula, nec ultricies risus varius in.</p>
+			<p class="color">Duis ultrices ex mi, sit amet blandit purus porta quis. In congue, odio non aliquet vulputate, dolor arcu pulvinar velit, quis suscipit turpis libero sed libero. Ut vitae diam pharetra, pretium tellus sed, porta turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce vehicula faucibus nulla, et consequat ante cursus eget. Nunc tempus quam ut justo faucibus, eu lacinia urna tincidunt. Vestibulum nec mollis sem, non tincidunt urna. Duis consectetur enim a vulputate feugiat.</p>
+			<p class="color">Praesent id turpis vitae odio euismod auctor. Mauris maximus a arcu vel posuere. Sed sed malesuada ante. Morbi sit amet erat suscipit, fermentum mi quis, consequat neque. Cras blandit eros lobortis massa fermentum malesuada. Fusce nec commodo diam. Morbi nisl nulla, commodo non malesuada id, dignissim a elit. Nunc vel felis elit. Nulla ornare posuere augue, vel elementum eros viverra vitae. Aenean nec eros non magna tempus efficitur ac id est. Aenean placerat vitae magna id iaculis. Mauris quis tristique tortor. Donec molestie, ante sed commodo molestie, turpis erat faucibus turpis, nec facilisis orci tortor non nulla.</p>
+			<p class="color">Maecenas ultrices mattis eros a egestas. Praesent quis facilisis nulla. In consequat consequat augue vitae facilisis. Morbi gravida commodo sapien. Donec varius egestas ante sed laoreet. Sed id mi lorem. Curabitur blandit ac metus quis pellentesque. Sed sollicitudin, metus et faucibus viverra, turpis mi congue nisl, nec luctus mauris diam id ligula. Aliquam gravida ante sit amet auctor accumsan. Aenean dignissim turpis id sodales viverra. Aenean viverra ligula a laoreet malesuada. Proin ac mauris egestas, fermentum ligula in, egestas ante. Curabitur in nisl quis diam viverra viverra in ut nibh. Integer ut arcu urna. </p>
+			<footer>
+			<small class="color">
+			&copy; All rights reserved - Calico Desserts.
+			</small>
+			</footer>
+		</article>
+		<article id="modal">
+			<p id="x">&times;</p>
+			<p id="txt">Come visit us today and try some of our delightful flavors</p>
+		</article>
+		<script>
+			var modal = document.getElementById("modal");
+			var btn = document.getElementById("x");	
+			setTimeout(function() { modal.style.display = "block"; }, 3000);
+			btn.onclick = function() { modal.style.display = "none"; }
+		</script>
+	</body>
+</html>

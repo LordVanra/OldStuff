@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>Fixed Positioning</title>
+	<style>
+		body		{ color: white; width: 500px; font-family: sans-serif;}
+		#div-top	{ background-color: blue; }
+		#div-bottom	{ background-color: blue; }
+		#div-1		{ background-color: black; }
+		#div-1a		{ background-color: red; }
+		#div-1b		{ background-color: green; }
+		#div-1c		{ background-color: orange; position: fixed; right: 0; top: 50; width: 200px;}
+		
+		img		{ position: absolute; bottom: 200px; }
+	</style>
+</head>
+<body>
+	<div id="div-top">
+		<p>div id = div-top</p>
+	</div>
+	<div id="div-1">
+		<p>div id = div-1<p>
+		<div id="div-1a">
+			<p>div id = div-1a</p>
+			<p>
+	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+	
+			</p>
+		</div>
+		<div id="div-1b">
+			<p>div id = div-1b</p><p>
+	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+	
+			</p>
+		</div>
+		<div id="div-1c">
+			<p>div id = div-1c</p>
+			<p>
+	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+	
+			</p>
+		</div>
+		<br>
+	</div>
+	<div id="div-bottom">
+		<p>div id = div-bottom</p>
+	</div>
+	
+</body>

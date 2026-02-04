@@ -1,0 +1,3004 @@
+{
+  "bills": [
+    {
+      "id": 1,
+      "description": "Increase minimum wage to $20 per hour nationally",
+      "left_right_scale": 15,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 2,
+      "description": "Abolish all corporate taxes",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 3,
+      "description": "Legalize recreational marijuana nationwide",
+      "left_right_scale": 35,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 4,
+      "description": "Mandate national ID cards for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 5,
+      "description": "Establish universal basic income of $1,000 monthly",
+      "left_right_scale": 10,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 6,
+      "description": "Privatize all public schools",
+      "left_right_scale": 80,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 7,
+      "description": "Ban all semi-automatic firearms",
+      "left_right_scale": 20,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 8,
+      "description": "Eliminate all environmental regulations on businesses",
+      "left_right_scale": 90,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 9,
+      "description": "Create single-payer healthcare system",
+      "left_right_scale": 15,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 10,
+      "description": "Require government approval for all media publications",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 11,
+      "description": "Abolish all trade unions",
+      "left_right_scale": 85,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 12,
+      "description": "Legalize all drugs for personal use",
+      "left_right_scale": 30,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 13,
+      "description": "Increase defense spending by 50%",
+      "left_right_scale": 70,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 14,
+      "description": "Implement wealth tax on assets over $50 million",
+      "left_right_scale": 10,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 15,
+      "description": "Ban all abortion procedures",
+      "left_right_scale": 80,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 16,
+      "description": "Eliminate all border controls",
+      "left_right_scale": 5,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 17,
+      "description": "Require warrantless surveillance of all communications",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 18,
+      "description": "Nationalize all major banks",
+      "left_right_scale": 5,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 19,
+      "description": "Eliminate all welfare programs",
+      "left_right_scale": 90,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 20,
+      "description": "Mandate four-day work week for all employees",
+      "left_right_scale": 25,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 21,
+      "description": "Establish flat 10% tax rate for all income levels",
+      "left_right_scale": 75,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 22,
+      "description": "Ban all religious symbols in public spaces",
+      "left_right_scale": 25,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 23,
+      "description": "Allow unrestricted campaign contributions",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 24,
+      "description": "Require government-assigned jobs for all citizens",
+      "left_right_scale": 15,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 25,
+      "description": "Abolish all public transportation funding",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 26,
+      "description": "Implement carbon tax on all fossil fuel usage",
+      "left_right_scale": 20,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 27,
+      "description": "Ban all political parties",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 28,
+      "description": "Allow free market organ sales",
+      "left_right_scale": 70,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 29,
+      "description": "Establish maximum wage cap at 10x minimum wage",
+      "left_right_scale": 10,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 30,
+      "description": "Require military service for all 18-year-olds",
+      "left_right_scale": 65,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 31,
+      "description": "Decriminalize all non-violent crimes",
+      "left_right_scale": 30,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 32,
+      "description": "Nationalize all energy companies",
+      "left_right_scale": 10,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 33,
+      "description": "Eliminate all financial regulations",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 34,
+      "description": "Mandate 50% gender quotas in all companies",
+      "left_right_scale": 15,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 35,
+      "description": "Abolish all intellectual property rights",
+      "left_right_scale": 25,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 36,
+      "description": "Establish state-controlled media monopoly",
+      "left_right_scale": 30,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 37,
+      "description": "Eliminate all government subsidies",
+      "left_right_scale": 85,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 38,
+      "description": "Require parental licenses to have children",
+      "left_right_scale": 40,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 39,
+      "description": "Implement reparations payments for historical injustices",
+      "left_right_scale": 10,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 40,
+      "description": "Ban all labor strikes",
+      "left_right_scale": 75,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 41,
+      "description": "Create citizen dividend from natural resource revenues",
+      "left_right_scale": 35,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 42,
+      "description": "Establish one-party political system",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 43,
+      "description": "Privatize all roads and highways",
+      "left_right_scale": 80,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 44,
+      "description": "Mandate vegetarian diet in all schools",
+      "left_right_scale": 25,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 45,
+      "description": "Allow unrestricted immigration",
+      "left_right_scale": 20,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 46,
+      "description": "Require loyalty oaths from all government employees",
+      "left_right_scale": 70,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 47,
+      "description": "Establish worker cooperatives as mandatory business structure",
+      "left_right_scale": 5,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 48,
+      "description": "Eliminate all professional licensing requirements",
+      "left_right_scale": 75,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 49,
+      "description": "Create digital surveillance state tracking all citizens",
+      "left_right_scale": 55,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 50,
+      "description": "Abolish all prisons and implement restorative justice only",
+      "left_right_scale": 15,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 51,
+      "description": "Implement progressive taxation with 90% top rate",
+      "left_right_scale": 5,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 52,
+      "description": "Establish theocratic government based on religious law",
+      "left_right_scale": 80,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 53,
+      "description": "Create universal child allowance of $500 monthly",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 54,
+      "description": "Ban all labor unions in public sector",
+      "left_right_scale": 75,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 55,
+      "description": "Legalize assisted suicide nationwide",
+      "left_right_scale": 40,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 56,
+      "description": "Require government approval for all internet content",
+      "left_right_scale": 45,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 57,
+      "description": "Eliminate all corporate personhood rights",
+      "left_right_scale": 20,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 58,
+      "description": "Establish mandatory national service for all citizens",
+      "left_right_scale": 50,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 59,
+      "description": "Create free market for all government services",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 60,
+      "description": "Ban all homeschooling and require public education",
+      "left_right_scale": 30,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 61,
+      "description": "Implement land value tax as sole government revenue",
+      "left_right_scale": 45,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 62,
+      "description": "Establish government-controlled population limits",
+      "left_right_scale": 40,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 63,
+      "description": "Nationalize all healthcare facilities",
+      "left_right_scale": 10,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 64,
+      "description": "Allow complete freedom of contract without regulations",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 65,
+      "description": "Create universal basic services for all citizens",
+      "left_right_scale": 15,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 66,
+      "description": "Require biometric identification for all transactions",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 67,
+      "description": "Abolish all inheritance and estate taxes",
+      "left_right_scale": 80,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 68,
+      "description": "Mandate equal outcomes across all demographic groups",
+      "left_right_scale": 5,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 69,
+      "description": "Establish completely open borders with no restrictions",
+      "left_right_scale": 10,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 70,
+      "description": "Create social credit system rating all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 71,
+      "description": "Implement negative income tax for poverty relief",
+      "left_right_scale": 35,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 72,
+      "description": "Ban all forms of collective bargaining",
+      "left_right_scale": 85,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 73,
+      "description": "Establish maximum property ownership limits",
+      "left_right_scale": 10,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 74,
+      "description": "Allow complete deregulation of all industries",
+      "left_right_scale": 95,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 75,
+      "description": "Create mandatory work assignments for all citizens",
+      "left_right_scale": 20,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 76,
+      "description": "Eliminate all public funding for arts and culture",
+      "left_right_scale": 80,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 77,
+      "description": "Implement ranked choice voting nationwide",
+      "left_right_scale": 40,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 78,
+      "description": "Require government pre-approval for all publications",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 79,
+      "description": "Create sovereign wealth fund from oil revenues",
+      "left_right_scale": 30,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 80,
+      "description": "Ban all civilian firearm ownership",
+      "left_right_scale": 15,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 81,
+      "description": "Establish complete economic laissez-faire system",
+      "left_right_scale": 95,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 82,
+      "description": "Mandate equal representation in all institutions",
+      "left_right_scale": 15,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 83,
+      "description": "Create voluntary taxation system",
+      "left_right_scale": 70,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 84,
+      "description": "Establish central planning for all economic activity",
+      "left_right_scale": 5,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 85,
+      "description": "Allow unlimited corporate campaign spending",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 86,
+      "description": "Create universal guaranteed employment program",
+      "left_right_scale": 10,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 87,
+      "description": "Eliminate all antitrust and monopoly regulations",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 88,
+      "description": "Require state approval for all marriages",
+      "left_right_scale": 50,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 89,
+      "description": "Implement maximum income ratio of 20:1 in companies",
+      "left_right_scale": 15,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 90,
+      "description": "Create completely privatized legal system",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 91,
+      "description": "Establish universal healthcare as constitutional right",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 92,
+      "description": "Ban all political demonstrations and protests",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 93,
+      "description": "Create citizen ownership of all natural resources",
+      "left_right_scale": 25,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 94,
+      "description": "Eliminate all business licenses and permits",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 95,
+      "description": "Implement mandatory retirement at age 60",
+      "left_right_scale": 35,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 96,
+      "description": "Create voluntary community-based governance",
+      "left_right_scale": 30,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 97,
+      "description": "Establish corporate death penalty for major violations",
+      "left_right_scale": 20,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 98,
+      "description": "Allow complete freedom of movement between all nations",
+      "left_right_scale": 25,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 99,
+      "description": "Require government monitoring of all financial transactions",
+      "left_right_scale": 45,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 100,
+      "description": "Create post-scarcity economy through automation",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 101,
+      "description": "Establish maximum work week of 32 hours",
+      "left_right_scale": 25,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 102,
+      "description": "Privatize all water utilities and resources",
+      "left_right_scale": 85,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 103,
+      "description": "Create national rent control at 30% of median income",
+      "left_right_scale": 15,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 104,
+      "description": "Allow unrestricted genetic modification of humans",
+      "left_right_scale": 60,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 105,
+      "description": "Establish compulsory voting with fines for non-participation",
+      "left_right_scale": 40,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 106,
+      "description": "Nationalize all pharmaceutical companies",
+      "left_right_scale": 5,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 107,
+      "description": "Eliminate all minimum wage laws",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 108,
+      "description": "Create universal childcare from birth to age 5",
+      "left_right_scale": 15,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 109,
+      "description": "Ban all forms of advertising",
+      "left_right_scale": 30,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 110,
+      "description": "Establish competing private currencies",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 111,
+      "description": "Require DNA testing for all newborns and criminal database entry",
+      "left_right_scale": 55,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 112,
+      "description": "Create maximum CEO compensation at 50x average worker pay",
+      "left_right_scale": 10,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 113,
+      "description": "Abolish all public universities",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 114,
+      "description": "Mandate 6-month parental leave for all employees",
+      "left_right_scale": 20,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 115,
+      "description": "Establish thought police monitoring for dangerous ideas",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 116,
+      "description": "Create worker ownership requirement for companies over 100 employees",
+      "left_right_scale": 10,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 117,
+      "description": "Allow complete freedom of contract including child labor",
+      "left_right_scale": 95,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 118,
+      "description": "Implement mandatory community service hours for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 119,
+      "description": "Establish universal basic assets program giving everyone $10,000 at birth",
+      "left_right_scale": 20,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 120,
+      "description": "Create government monopoly on all communications infrastructure",
+      "left_right_scale": 30,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 121,
+      "description": "Eliminate all corporate liability protections",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 122,
+      "description": "Allow voluntary slavery contracts",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 123,
+      "description": "Establish maximum family size of 2 children",
+      "left_right_scale": 40,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 124,
+      "description": "Create public ownership of all major corporations",
+      "left_right_scale": 5,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 125,
+      "description": "Eliminate all food safety regulations",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 126,
+      "description": "Mandate equal gender representation in all elected positions",
+      "left_right_scale": 15,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 127,
+      "description": "Create voluntary community defense forces replacing police",
+      "left_right_scale": 25,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 128,
+      "description": "Establish life imprisonment for all drug possession",
+      "left_right_scale": 70,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 129,
+      "description": "Implement universal debt forgiveness program",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 130,
+      "description": "Allow complete privatization of all courts and law enforcement",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 131,
+      "description": "Create mandatory mental health screening for all citizens annually",
+      "left_right_scale": 45,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 132,
+      "description": "Establish cooperative ownership as default business structure",
+      "left_right_scale": 5,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 133,
+      "description": "Eliminate all consumer protection laws",
+      "left_right_scale": 95,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 134,
+      "description": "Require government approval for all medical procedures",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 135,
+      "description": "Create universal housing guarantee for all citizens",
+      "left_right_scale": 10,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 136,
+      "description": "Allow unrestricted human experimentation",
+      "left_right_scale": 75,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 137,
+      "description": "Establish mandatory curfews for all citizens",
+      "left_right_scale": 55,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 138,
+      "description": "Implement maximum wealth cap at $10 million",
+      "left_right_scale": 5,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 139,
+      "description": "Create complete freedom of information with no government secrets",
+      "left_right_scale": 35,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 140,
+      "description": "Require loyalty tests for all voters",
+      "left_right_scale": 75,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 141,
+      "description": "Establish universal internet access as human right",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 142,
+      "description": "Allow unlimited pollution by private companies",
+      "left_right_scale": 95,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 143,
+      "description": "Create government allocation of all jobs based on aptitude tests",
+      "left_right_scale": 20,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 144,
+      "description": "Eliminate all public parks and sell to private interests",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 145,
+      "description": "Implement mandatory organ donation upon death",
+      "left_right_scale": 40,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 146,
+      "description": "Create guaranteed income floor at poverty line for all",
+      "left_right_scale": 20,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 147,
+      "description": "Allow complete freedom of drug manufacturing and sales",
+      "left_right_scale": 70,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 148,
+      "description": "Establish mandatory sterilization for genetic disorders",
+      "left_right_scale": 60,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 149,
+      "description": "Nationalize all retail and distribution chains",
+      "left_right_scale": 5,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 150,
+      "description": "Create voluntary taxation based on conscience",
+      "left_right_scale": 65,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 151,
+      "description": "Require government permission for all travel",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 152,
+      "description": "Implement maximum working age of 65 with mandatory retirement",
+      "left_right_scale": 30,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 153,
+      "description": "Establish complete economic democracy in all workplaces",
+      "left_right_scale": 5,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 154,
+      "description": "Allow unrestricted weapons ownership including military equipment",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 155,
+      "description": "Create mandatory re-education camps for dissidents",
+      "left_right_scale": 40,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 156,
+      "description": "Establish universal legal representation as constitutional right",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 157,
+      "description": "Eliminate all workplace safety regulations",
+      "left_right_scale": 95,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 158,
+      "description": "Require government approval for all pregnancies",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 159,
+      "description": "Create worker councils with veto power over management decisions",
+      "left_right_scale": 10,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 160,
+      "description": "Allow complete freedom of association including discrimination",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 161,
+      "description": "Establish mandatory national fitness standards",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 162,
+      "description": "Implement universal basic mobility with free transportation",
+      "left_right_scale": 15,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 163,
+      "description": "Create private court system competing with public courts",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 164,
+      "description": "Require state approval for all artistic expression",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 165,
+      "description": "Establish maximum corporate size limits",
+      "left_right_scale": 25,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 166,
+      "description": "Allow unrestricted child labor in family businesses",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 167,
+      "description": "Create mandatory community ownership of all housing",
+      "left_right_scale": 5,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 168,
+      "description": "Implement complete freedom of medical practice without licensing",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 169,
+      "description": "Establish mandatory happiness monitoring for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 170,
+      "description": "Create universal education through age 25",
+      "left_right_scale": 20,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 171,
+      "description": "Allow complete freedom of environmental destruction on private land",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 172,
+      "description": "Require government licensing for all speech and expression",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 173,
+      "description": "Implement worker ownership of all means of production",
+      "left_right_scale": 5,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 174,
+      "description": "Create completely privatized emergency services",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 175,
+      "description": "Establish mandatory psychological evaluation for all political candidates",
+      "left_right_scale": 45,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 176,
+      "description": "Guarantee universal access to culture and arts",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 177,
+      "description": "Allow unlimited corporate espionage and trade secret theft",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 178,
+      "description": "Create mandatory work quotas for all citizens",
+      "left_right_scale": 25,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 179,
+      "description": "Establish universal access to advanced technology",
+      "left_right_scale": 20,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 180,
+      "description": "Eliminate all building codes and safety standards",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 181,
+      "description": "Require government approval for all relationships and marriages",
+      "left_right_scale": 55,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 182,
+      "description": "Create municipal ownership of all local businesses",
+      "left_right_scale": 10,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 183,
+      "description": "Allow complete freedom of genetic engineering and cloning",
+      "left_right_scale": 70,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 184,
+      "description": "Establish mandatory organ harvesting from criminals",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 185,
+      "description": "Implement universal guaranteed retirement at age 55",
+      "left_right_scale": 15,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 186,
+      "description": "Create entirely voluntary military with market wages",
+      "left_right_scale": 65,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 187,
+      "description": "Require behavioral modification implants for all felons",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 188,
+      "description": "Establish community land trusts replacing private property",
+      "left_right_scale": 5,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 189,
+      "description": "Allow unlimited exploitation of natural resources",
+      "left_right_scale": 95,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 190,
+      "description": "Create mandatory daily exercise requirements for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 191,
+      "description": "Implement universal access to venture capital for startups",
+      "left_right_scale": 25,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 192,
+      "description": "Eliminate all contract enforcement by government",
+      "left_right_scale": 75,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 193,
+      "description": "Establish mandatory brain scanning for criminal thoughts",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 194,
+      "description": "Create worker ownership requirements for all corporations",
+      "left_right_scale": 10,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 195,
+      "description": "Allow complete freedom of price manipulation and market cornering",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 196,
+      "description": "Require government permission for all gatherings over 10 people",
+      "left_right_scale": 55,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 197,
+      "description": "Establish universal access to mental healthcare",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 198,
+      "description": "Create completely unregulated financial derivatives markets",
+      "left_right_scale": 90,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 199,
+      "description": "Implement mandatory blood donations from all citizens",
+      "left_right_scale": 40,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 200,
+      "description": "Guarantee universal access to high-speed internet",
+      "left_right_scale": 15,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 201,
+      "description": "Allow unlimited working hours without overtime pay",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 202,
+      "description": "Create mandatory relocation programs for economic efficiency",
+      "left_right_scale": 35,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 203,
+      "description": "Establish participatory budgeting for all government spending",
+      "left_right_scale": 25,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 204,
+      "description": "Eliminate all restrictions on monopoly formation",
+      "left_right_scale": 95,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 205,
+      "description": "Require government monitoring of all private conversations",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 206,
+      "description": "Create universal access to legal psychedelic therapy",
+      "left_right_scale": 30,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 207,
+      "description": "Allow complete freedom of toxic waste disposal",
+      "left_right_scale": 90,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 208,
+      "description": "Establish mandatory volunteering quotas for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 209,
+      "description": "Implement universal access to job retraining programs",
+      "left_right_scale": 20,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 210,
+      "description": "Create completely privatized police forces for hire",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 211,
+      "description": "Require government approval for all educational curricula",
+      "left_right_scale": 55,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 212,
+      "description": "Establish collective ownership of all agricultural land",
+      "left_right_scale": 5,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 213,
+      "description": "Allow unlimited speculation on food commodities",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 214,
+      "description": "Create mandatory happiness injections for depressed citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 215,
+      "description": "Implement universal access to fertility treatments",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 216,
+      "description": "Eliminate all worker compensation for injuries",
+      "left_right_scale": 90,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 217,
+      "description": "Establish mandatory medical experiments on prisoners",
+      "left_right_scale": 60,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 218,
+      "description": "Create community ownership of all transportation infrastructure",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 219,
+      "description": "Allow complete freedom of insider trading",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 220,
+      "description": "Require government permission for all personal decisions",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 221,
+      "description": "Establish universal access to emergency services",
+      "left_right_scale": 15,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 222,
+      "description": "Create completely unregulated pharmaceutical industry",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 223,
+      "description": "Implement mandatory skill assessments for all workers annually",
+      "left_right_scale": 40,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 224,
+      "description": "Guarantee universal access to clean water and sanitation",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 225,
+      "description": "Allow unlimited environmental pollution on private property",
+      "left_right_scale": 95,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 226,
+      "description": "Create mandatory social credit scoring for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 227,
+      "description": "Establish worker cooperatives as only legal business form",
+      "left_right_scale": 5,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 228,
+      "description": "Eliminate all product liability laws",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 229,
+      "description": "Require behavioral tracking implants for all citizens",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 230,
+      "description": "Create universal access to nutritious food as human right",
+      "left_right_scale": 15,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 231,
+      "description": "Allow complete freedom of pyramid schemes and fraud",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 232,
+      "description": "Establish mandatory productivity monitoring for all workers",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 233,
+      "description": "Implement universal guaranteed housing quality standards",
+      "left_right_scale": 20,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 234,
+      "description": "Create completely privatized education from kindergarten through university",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 235,
+      "description": "Require government approval for all scientific research",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 236,
+      "description": "Establish community control over all local resources",
+      "left_right_scale": 10,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 237,
+      "description": "Allow unlimited exploitation of workers including debt bondage",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 238,
+      "description": "Create mandatory fertility controls based on income levels",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 239,
+      "description": "Implement universal access to renewable energy",
+      "left_right_scale": 25,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 240,
+      "description": "Eliminate all restrictions on predatory lending",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 241,
+      "description": "Establish mandatory emotion regulation therapy for all citizens",
+      "left_right_scale": 40,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 242,
+      "description": "Create universal access to recreational facilities",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 243,
+      "description": "Allow complete freedom of medical malpractice without consequences",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 244,
+      "description": "Require government assignment of romantic partners",
+      "left_right_scale": 45,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 245,
+      "description": "Establish democratic workplace governance for all companies",
+      "left_right_scale": 10,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 246,
+      "description": "Create completely unregulated genetic modification industry",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 247,
+      "description": "Implement mandatory calorie restrictions for all citizens",
+      "left_right_scale": 40,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 248,
+      "description": "Guarantee universal access to artistic expression tools",
+      "left_right_scale": 15,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 249,
+      "description": "Allow unlimited price gouging during emergencies",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 250,
+      "description": "Create mandatory sleep schedule enforcement for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 251,
+      "description": "Establish universal access to transportation infrastructure",
+      "left_right_scale": 20,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 252,
+      "description": "Eliminate all restrictions on child marriage",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 253,
+      "description": "Require government monitoring of all financial transactions",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 254,
+      "description": "Create collective ownership of all intellectual property",
+      "left_right_scale": 5,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 255,
+      "description": "Allow complete freedom of organ harvesting and sales",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 256,
+      "description": "Establish mandatory career assignments based on government needs",
+      "left_right_scale": 25,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 257,
+      "description": "Implement universal access to advanced medical procedures",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 258,
+      "description": "Create entirely privatized disaster relief services",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 259,
+      "description": "Require loyalty implants for all government employees",
+      "left_right_scale": 60,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 260,
+      "description": "Establish community ownership of all manufacturing facilities",
+      "left_right_scale": 5,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 261,
+      "description": "Allow unlimited speculation on human life insurance",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 262,
+      "description": "Create mandatory meditation requirements for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 263,
+      "description": "Guarantee universal access to clean air quality standards",
+      "left_right_scale": 20,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 264,
+      "description": "Eliminate all restrictions on human trafficking",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 265,
+      "description": "Establish mandatory genetic screening for reproduction",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 266,
+      "description": "Create worker ownership of all technological innovation",
+      "left_right_scale": 10,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 267,
+      "description": "Allow complete freedom of environmental terrorism",
+      "left_right_scale": 75,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 268,
+      "description": "Require government approval for all personal hobbies",
+      "left_right_scale": 45,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 269,
+      "description": "Implement universal access to cultural preservation programs",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 270,
+      "description": "Create completely unregulated artificial intelligence development",
+      "left_right_scale": 70,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 271,
+      "description": "Establish mandatory brain enhancement procedures for all citizens",
+      "left_right_scale": 40,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 272,
+      "description": "Guarantee universal access to conflict resolution services",
+      "left_right_scale": 15,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 273,
+      "description": "Allow unlimited exploitation of indigenous lands and resources",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 274,
+      "description": "Create mandatory personality modification for antisocial behavior",
+      "left_right_scale": 45,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 275,
+      "description": "Establish community control over all technological development",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 276,
+      "description": "Eliminate all restrictions on human cloning and modification",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 277,
+      "description": "Require government permission for all personal relationships",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 278,
+      "description": "Create universal access to life extension technologies",
+      "left_right_scale": 20,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 279,
+      "description": "Allow complete freedom of biological weapons development",
+      "left_right_scale": 75,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 280,
+      "description": "Establish mandatory happiness quotas for all citizens",
+      "left_right_scale": 40,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 281,
+      "description": "Implement collective ownership of all natural resources",
+      "left_right_scale": 5,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 282,
+      "description": "Create entirely privatized weather modification services",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 283,
+      "description": "Require behavioral control implants for all violent criminals",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 284,
+      "description": "Guarantee universal access to spiritual and religious services",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 285,
+      "description": "Allow unlimited experimentation on human subjects",
+      "left_right_scale": 80,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 286,
+      "description": "Create mandatory social interaction quotas for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 287,
+      "description": "Establish community ownership of all communication networks",
+      "left_right_scale": 10,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 288,
+      "description": "Eliminate all restrictions on space colonization exploitation",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 289,
+      "description": "Require government control of all reproductive decisions",
+      "left_right_scale": 45,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 290,
+      "description": "Create universal access to democratic participation tools",
+      "left_right_scale": 15,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 291,
+      "description": "Allow complete freedom of nuclear weapons development",
+      "left_right_scale": 75,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 292,
+      "description": "Establish mandatory memory modification for traumatic experiences",
+      "left_right_scale": 40,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 293,
+      "description": "Implement worker control over all corporate governance",
+      "left_right_scale": 5,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 294,
+      "description": "Create completely unregulated time travel research",
+      "left_right_scale": 70,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 295,
+      "description": "Require government assignment of all living arrangements",
+      "left_right_scale": 30,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 296,
+      "description": "Guarantee universal access to consciousness enhancement",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 297,
+      "description": "Allow unlimited destruction of historical sites for profit",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 298,
+      "description": "Create mandatory thought uniformity enforcement programs",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 299,
+      "description": "Establish community control over all energy production",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 300,
+      "description": "Eliminate all restrictions on dimensional research experimentation",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 301,
+      "description": "Require government monitoring of all dreams and sleep",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 302,
+      "description": "Create universal access to quantum computing resources",
+      "left_right_scale": 15,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 303,
+      "description": "Allow complete freedom of reality manipulation technology",
+      "left_right_scale": 75,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 304,
+      "description": "Establish mandatory loyalty testing through brain scanning",
+      "left_right_scale": 60,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 305,
+      "description": "Implement collective ownership of all future innovations",
+      "left_right_scale": 5,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 306,
+      "description": "Create entirely privatized reality simulation services",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 307,
+      "description": "Require behavioral prediction algorithms for all citizens",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 308,
+      "description": "Guarantee universal access to immortality treatments",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 309,
+      "description": "Allow unlimited exploitation of parallel universe resources",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 310,
+      "description": "Create mandatory universe simulation participation",
+      "left_right_scale": 40,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 311,
+      "description": "Establish community control over all scientific discoveries",
+      "left_right_scale": 10,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 312,
+      "description": "Eliminate all restrictions on consciousness uploading",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 313,
+      "description": "Require government control of all individual memories",
+      "left_right_scale": 45,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 314,
+      "description": "Create universal access to multidimensional travel",
+      "left_right_scale": 15,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 315,
+      "description": "Allow complete freedom of timeline manipulation",
+      "left_right_scale": 75,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 316,
+      "description": "Establish mandatory existence quotas for all beings",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 317,
+      "description": "Implement worker ownership of all cosmic resources",
+      "left_right_scale": 5,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 318,
+      "description": "Create completely unregulated god-like power development",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 319,
+      "description": "Require government assignment of all personal identities",
+      "left_right_scale": 40,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 320,
+      "description": "Guarantee universal access to omniscience enhancement",
+      "left_right_scale": 20,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 321,
+      "description": "Allow unlimited destruction of alternate realities for resources",
+      "left_right_scale": 90,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 322,
+      "description": "Create mandatory reality consensus enforcement",
+      "left_right_scale": 45,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 323,
+      "description": "Establish community control over all existence parameters",
+      "left_right_scale": 10,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 324,
+      "description": "Eliminate all restrictions on universe creation and destruction",
+      "left_right_scale": 80,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 325,
+      "description": "Require government monitoring of all thoughts across dimensions",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 326,
+      "description": "Create universal access to infinite energy sources",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 327,
+      "description": "Allow complete freedom of cosmic law manipulation",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 328,
+      "description": "Establish mandatory existence optimization programs",
+      "left_right_scale": 40,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 329,
+      "description": "Implement collective ownership of all universal constants",
+      "left_right_scale": 5,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 330,
+      "description": "Create entirely privatized reality marketplace",
+      "left_right_scale": 90,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 331,
+      "description": "Require behavioral modification of all sentient beings",
+      "left_right_scale": 45,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 332,
+      "description": "Guarantee universal access to transcendence technologies",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 333,
+      "description": "Allow unlimited experimentation on fundamental reality",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 334,
+      "description": "Create mandatory universal harmony enforcement",
+      "left_right_scale": 35,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 335,
+      "description": "Establish community control over all dimensional boundaries",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 336,
+      "description": "Eliminate all restrictions on consciousness merger experiments",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 337,
+      "description": "Require government control of all individual soul development",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 338,
+      "description": "Create universal access to enlightenment acceleration",
+      "left_right_scale": 15,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 339,
+      "description": "Allow complete freedom of spiritual ecosystem destruction",
+      "left_right_scale": 85,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 340,
+      "description": "Establish mandatory karma redistribution programs",
+      "left_right_scale": 25,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 341,
+      "description": "Implement worker ownership of all metaphysical properties",
+      "left_right_scale": 5,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 342,
+      "description": "Create completely unregulated afterlife modification industry",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 343,
+      "description": "Require government assignment of all spiritual paths",
+      "left_right_scale": 40,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 344,
+      "description": "Guarantee universal access to divine communication channels",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 345,
+      "description": "Allow unlimited exploitation of sacred sites for profit",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 346,
+      "description": "Create mandatory belief system standardization",
+      "left_right_scale": 45,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 347,
+      "description": "Establish community control over all religious practices",
+      "left_right_scale": 15,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 348,
+      "description": "Eliminate all restrictions on deity creation and worship",
+      "left_right_scale": 70,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 349,
+      "description": "Require government monitoring of all prayer and meditation",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 350,
+      "description": "Create universal access to miracle-working abilities",
+      "left_right_scale": 10,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 351,
+      "description": "Allow complete freedom of prophetic manipulation for profit",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 352,
+      "description": "Establish mandatory salvation quotas for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 353,
+      "description": "Implement collective ownership of all divine revelations",
+      "left_right_scale": 5,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 354,
+      "description": "Create entirely privatized heaven and hell services",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 355,
+      "description": "Require behavioral modification based on religious compliance",
+      "left_right_scale": 60,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 356,
+      "description": "Guarantee universal access to angelic intervention services",
+      "left_right_scale": 15,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 357,
+      "description": "Allow unlimited desecration of all religious sites",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 358,
+      "description": "Create mandatory moral purity testing for all citizens",
+      "left_right_scale": 70,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 359,
+      "description": "Establish community control over all spiritual experiences",
+      "left_right_scale": 20,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 360,
+      "description": "Eliminate all restrictions on soul trafficking and sales",
+      "left_right_scale": 90,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 361,
+      "description": "Require government approval for all acts of faith",
+      "left_right_scale": 45,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 362,
+      "description": "Create universal access to redemption and forgiveness programs",
+      "left_right_scale": 25,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 363,
+      "description": "Allow complete freedom of blasphemy commercialization",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 364,
+      "description": "Establish mandatory pilgrimage requirements for all citizens",
+      "left_right_scale": 50,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 365,
+      "description": "Implement worker ownership of all temples and churches",
+      "left_right_scale": 10,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 366,
+      "description": "Create completely unregulated prophecy and fortune-telling industry",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 367,
+      "description": "Require government control of all individual spiritual development",
+      "left_right_scale": 40,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 368,
+      "description": "Guarantee universal access to divine justice systems",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 369,
+      "description": "Allow unlimited exploitation of religious labor",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 370,
+      "description": "Create mandatory tithing to government at 50% of income",
+      "left_right_scale": 30,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 371,
+      "description": "Establish community control over all charitable activities",
+      "left_right_scale": 20,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 372,
+      "description": "Eliminate all restrictions on religious warfare",
+      "left_right_scale": 70,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 373,
+      "description": "Require government licensing for all moral teachings",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 374,
+      "description": "Create universal access to martyrdom insurance programs",
+      "left_right_scale": 25,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 375,
+      "description": "Allow complete freedom of cult formation and operation",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 376,
+      "description": "Establish mandatory confession requirements for all citizens",
+      "left_right_scale": 60,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 377,
+      "description": "Implement collective ownership of all sacred texts and artifacts",
+      "left_right_scale": 5,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 378,
+      "description": "Create entirely privatized salvation marketplace",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 379,
+      "description": "Require behavioral modification based on sin assessment",
+      "left_right_scale": 65,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 380,
+      "description": "Guarantee universal access to spiritual healing services",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 381,
+      "description": "Allow unlimited commercialization of religious ceremonies",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 382,
+      "description": "Create mandatory religious education in all schools",
+      "left_right_scale": 70,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 383,
+      "description": "Establish community control over all wedding and funeral rites",
+      "left_right_scale": 25,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 384,
+      "description": "Eliminate all restrictions on religious discrimination",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 385,
+      "description": "Require government approval for all religious gatherings",
+      "left_right_scale": 45,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 386,
+      "description": "Create universal access to interfaith dialogue programs",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 387,
+      "description": "Allow complete freedom of religious tax evasion",
+      "left_right_scale": 75,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 388,
+      "description": "Establish mandatory religious observance schedules",
+      "left_right_scale": 60,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 389,
+      "description": "Implement worker ownership of all religious institutions",
+      "left_right_scale": 10,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 390,
+      "description": "Create completely unregulated miracle cure industry",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 391,
+      "description": "Require government control of all religious broadcasting",
+      "left_right_scale": 50,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 392,
+      "description": "Guarantee universal access to religious freedom protection",
+      "left_right_scale": 30,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 393,
+      "description": "Allow unlimited exploitation of pilgrimage sites for profit",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 394,
+      "description": "Create mandatory dietary restrictions based on religious law",
+      "left_right_scale": 65,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 395,
+      "description": "Establish community control over all religious leadership",
+      "left_right_scale": 15,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 396,
+      "description": "Eliminate all restrictions on religious violence",
+      "left_right_scale": 70,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 397,
+      "description": "Require government monitoring of all religious thoughts",
+      "left_right_scale": 55,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 398,
+      "description": "Create universal access to divine punishment mitigation",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 399,
+      "description": "Allow complete freedom of religious fraud and deception",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 400,
+      "description": "Establish mandatory spiritual compliance testing for all citizens",
+      "left_right_scale": 60,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 401,
+      "description": "Implement collective ownership of all moral authority",
+      "left_right_scale": 5,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 402,
+      "description": "Create entirely privatized divine intervention services",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 403,
+      "description": "Require behavioral modification based on faith assessment",
+      "left_right_scale": 70,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 404,
+      "description": "Guarantee universal access to eternal life insurance",
+      "left_right_scale": 25,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 405,
+      "description": "Allow unlimited destruction of competing religious sites",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 406,
+      "description": "Create mandatory prayer quotas for all citizens daily",
+      "left_right_scale": 65,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 407,
+      "description": "Establish community control over all spiritual experiences",
+      "left_right_scale": 15,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 408,
+      "description": "Eliminate all restrictions on religious child indoctrination",
+      "left_right_scale": 80,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 409,
+      "description": "Require government approval for all acts of charity",
+      "left_right_scale": 45,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 410,
+      "description": "Create universal access to secular ethics education",
+      "left_right_scale": 20,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 411,
+      "description": "Allow complete freedom of religious money laundering",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 412,
+      "description": "Establish mandatory celibacy for government employees",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 413,
+      "description": "Implement worker ownership of all moral decision-making",
+      "left_right_scale": 10,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 414,
+      "description": "Create completely unregulated exorcism industry",
+      "left_right_scale": 75,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 415,
+      "description": "Require government control of all individual conscience",
+      "left_right_scale": 50,
+      "lib_auth_scale": 100
+    },
+    {
+      "id": 416,
+      "description": "Guarantee universal access to moral rehabilitation programs",
+      "left_right_scale": 25,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 417,
+      "description": "Allow unlimited exploitation of religious worker labor",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 418,
+      "description": "Create mandatory virtue signaling requirements for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 419,
+      "description": "Establish community control over all ethical standards",
+      "left_right_scale": 15,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 420,
+      "description": "Eliminate all restrictions on faith healing malpractice",
+      "left_right_scale": 85,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 421,
+      "description": "Require government licensing for all moral guidance",
+      "left_right_scale": 60,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 422,
+      "description": "Create universal access to forgiveness counseling services",
+      "left_right_scale": 20,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 423,
+      "description": "Allow complete freedom of religious pyramid schemes",
+      "left_right_scale": 75,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 424,
+      "description": "Establish mandatory religious testing for all employment",
+      "left_right_scale": 70,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 425,
+      "description": "Implement collective ownership of all sacred knowledge",
+      "left_right_scale": 5,
+      "lib_auth_scale": 45
+    },
+    {
+      "id": 426,
+      "description": "Create entirely privatized absolution marketplace",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 427,
+      "description": "Require behavioral modification based on religious compliance scores",
+      "left_right_scale": 65,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 428,
+      "description": "Guarantee universal access to spiritual crisis intervention",
+      "left_right_scale": 15,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 429,
+      "description": "Allow unlimited commercialization of religious artifacts",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 430,
+      "description": "Create mandatory sabbath observance for entire population",
+      "left_right_scale": 60,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 431,
+      "description": "Establish community control over all wedding ceremonies",
+      "left_right_scale": 25,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 432,
+      "description": "Eliminate all restrictions on religious hate speech",
+      "left_right_scale": 75,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 433,
+      "description": "Require government approval for all religious conversions",
+      "left_right_scale": 50,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 434,
+      "description": "Create universal access to interfaith mediation services",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 435,
+      "description": "Allow complete freedom of religious tax fraud",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 436,
+      "description": "Establish mandatory religious loyalty oaths for citizenship",
+      "left_right_scale": 70,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 437,
+      "description": "Implement worker ownership of all religious property",
+      "left_right_scale": 10,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 438,
+      "description": "Create completely unregulated religious counseling industry",
+      "left_right_scale": 75,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 439,
+      "description": "Require government control of all religious publishing",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 440,
+      "description": "Guarantee universal access to blasphemy protection services",
+      "left_right_scale": 30,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 441,
+      "description": "Allow unlimited exploitation of religious tourism",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 442,
+      "description": "Create mandatory fasting periods for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 443,
+      "description": "Establish community control over all burial practices",
+      "left_right_scale": 15,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 444,
+      "description": "Eliminate all restrictions on religious animal sacrifice",
+      "left_right_scale": 70,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 445,
+      "description": "Require government monitoring of all religious donations",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 446,
+      "description": "Create universal access to religious trauma recovery",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 447,
+      "description": "Allow complete freedom of religious copyright infringement",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 448,
+      "description": "Establish mandatory pilgrimage taxes on all citizens",
+      "left_right_scale": 50,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 449,
+      "description": "Implement collective ownership of all divine inspiration",
+      "left_right_scale": 5,
+      "lib_auth_scale": 50
+    },
+    {
+      "id": 450,
+      "description": "Create entirely privatized religious court system",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 451,
+      "description": "Require behavioral modification based on prayer frequency",
+      "left_right_scale": 65,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 452,
+      "description": "Guarantee universal access to religious freedom advocacy",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 453,
+      "description": "Allow unlimited destruction of secular institutions",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 454,
+      "description": "Create mandatory religious dress codes for all public spaces",
+      "left_right_scale": 70,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 455,
+      "description": "Establish community control over all religious festivals",
+      "left_right_scale": 25,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 456,
+      "description": "Eliminate all restrictions on religious recruitment of minors",
+      "left_right_scale": 80,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 457,
+      "description": "Require government approval for all acts of worship",
+      "left_right_scale": 55,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 458,
+      "description": "Create universal access to comparative religion education",
+      "left_right_scale": 15,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 459,
+      "description": "Allow complete freedom of religious insider trading",
+      "left_right_scale": 85,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 460,
+      "description": "Establish mandatory meditation requirements for government employees",
+      "left_right_scale": 40,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 461,
+      "description": "Implement worker ownership of all spiritual practices",
+      "left_right_scale": 10,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 462,
+      "description": "Create completely unregulated religious pharmaceutical industry",
+      "left_right_scale": 75,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 463,
+      "description": "Require government control of all individual prayer schedules",
+      "left_right_scale": 50,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 464,
+      "description": "Guarantee universal access to religious conflict resolution",
+      "left_right_scale": 20,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 465,
+      "description": "Allow unlimited exploitation of religious volunteer labor",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 466,
+      "description": "Create mandatory religious community service for all citizens",
+      "left_right_scale": 45,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 467,
+      "description": "Establish community control over all moral education",
+      "left_right_scale": 15,
+      "lib_auth_scale": 70
+    },
+    {
+      "id": 468,
+      "description": "Eliminate all restrictions on religious environmental destruction",
+      "left_right_scale": 75,
+      "lib_auth_scale": 5
+    },
+    {
+      "id": 469,
+      "description": "Require government licensing for all spiritual guidance",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 470,
+      "description": "Create universal access to religious heritage preservation",
+      "left_right_scale": 25,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 471,
+      "description": "Allow complete freedom of religious data mining",
+      "left_right_scale": 85,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 472,
+      "description": "Establish mandatory religious education in all universities",
+      "left_right_scale": 70,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 473,
+      "description": "Implement collective ownership of all religious rituals",
+      "left_right_scale": 5,
+      "lib_auth_scale": 55
+    },
+    {
+      "id": 474,
+      "description": "Create entirely privatized religious broadcasting network",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 475,
+      "description": "Require behavioral modification based on tithing compliance",
+      "left_right_scale": 65,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 476,
+      "description": "Guarantee universal access to secular counseling alternatives",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 477,
+      "description": "Allow unlimited commercialization of religious holidays",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 478,
+      "description": "Create mandatory religious loyalty testing for all professions",
+      "left_right_scale": 70,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 479,
+      "description": "Establish community control over all charitable distributions",
+      "left_right_scale": 15,
+      "lib_auth_scale": 65
+    },
+    {
+      "id": 480,
+      "description": "Eliminate all restrictions on religious medical exemptions",
+      "left_right_scale": 75,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 481,
+      "description": "Require government approval for all religious music and art",
+      "left_right_scale": 55,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 482,
+      "description": "Create universal access to religious freedom legal defense",
+      "left_right_scale": 30,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 483,
+      "description": "Allow complete freedom of religious market manipulation",
+      "left_right_scale": 80,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 484,
+      "description": "Establish mandatory religious conflict mediation training",
+      "left_right_scale": 40,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 485,
+      "description": "Implement worker ownership of all faith-based organizations",
+      "left_right_scale": 10,
+      "lib_auth_scale": 40
+    },
+    {
+      "id": 486,
+      "description": "Create completely unregulated religious investment industry",
+      "left_right_scale": 85,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 487,
+      "description": "Require government control of all religious calendar observances",
+      "left_right_scale": 50,
+      "lib_auth_scale": 85
+    },
+    {
+      "id": 488,
+      "description": "Guarantee universal access to interfaith marriage counseling",
+      "left_right_scale": 25,
+      "lib_auth_scale": 30
+    },
+    {
+      "id": 489,
+      "description": "Allow unlimited exploitation of religious intellectual property",
+      "left_right_scale": 80,
+      "lib_auth_scale": 10
+    },
+    {
+      "id": 490,
+      "description": "Create mandatory religious sensitivity training for all citizens",
+      "left_right_scale": 35,
+      "lib_auth_scale": 80
+    },
+    {
+      "id": 491,
+      "description": "Establish community control over all religious dietary laws",
+      "left_right_scale": 20,
+      "lib_auth_scale": 75
+    },
+    {
+      "id": 492,
+      "description": "Eliminate all restrictions on religious discrimination in hiring",
+      "left_right_scale": 85,
+      "lib_auth_scale": 25
+    },
+    {
+      "id": 493,
+      "description": "Require government monitoring of all religious financial transactions",
+      "left_right_scale": 55,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 494,
+      "description": "Create universal access to religious addiction recovery programs",
+      "left_right_scale": 15,
+      "lib_auth_scale": 35
+    },
+    {
+      "id": 495,
+      "description": "Allow complete freedom of religious environmental exploitation",
+      "left_right_scale": 90,
+      "lib_auth_scale": 15
+    },
+    {
+      "id": 496,
+      "description": "Establish mandatory religious performance metrics for all citizens",
+      "left_right_scale": 60,
+      "lib_auth_scale": 90
+    },
+    {
+      "id": 497,
+      "description": "Implement collective ownership of all moral frameworks",
+      "left_right_scale": 5,
+      "lib_auth_scale": 60
+    },
+    {
+      "id": 498,
+      "description": "Create entirely privatized religious emergency services",
+      "left_right_scale": 80,
+      "lib_auth_scale": 20
+    },
+    {
+      "id": 499,
+      "description": "Require behavioral modification based on religious orthodoxy scores",
+      "left_right_scale": 70,
+      "lib_auth_scale": 95
+    },
+    {
+      "id": 500,
+      "description": "Guarantee universal access to spiritual enlightenment programs",
+      "left_right_scale": 20,
+      "lib_auth_scale": 25
+    }
+  ]
+}

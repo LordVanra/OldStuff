@@ -1,0 +1,27 @@
+h1,h2,h4,footer,.center{
+	text-align:center;
+}
+footer{
+	clear:both;
+}
+header{
+	padding-bottom:10px;
+}
+body{
+	background-color:tomato;
+}
+header{
+	background-color:orange;
+}
+article,footer{
+	background-color:white;
+}
+.big{
+	width:12.5%;
+	display:block;
+	margin:0px auto;
+}
+article{
+	min-height:100px;
+	margin-bottom:10px;
+}

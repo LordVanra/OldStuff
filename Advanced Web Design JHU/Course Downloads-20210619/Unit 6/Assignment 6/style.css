@@ -1,0 +1,29 @@
+body{
+	margin:0px auto;
+	width:800px;
+	padding:10px;
+}
+#short{
+	width:600px;
+}
+p{
+	width:800px;
+}
+#fix{
+	position:fixed;
+	width:120px;
+	top:90px;
+	left:67%;
+}
+figure{
+	text-align:center;
+	padding:10px;
+	border-top:2px solid lightgray;
+	border-bottom:2px solid lightgray;
+}
+h1{
+	text-align:center;
+}
+.juiceimg{
+	width:100px;
+}
