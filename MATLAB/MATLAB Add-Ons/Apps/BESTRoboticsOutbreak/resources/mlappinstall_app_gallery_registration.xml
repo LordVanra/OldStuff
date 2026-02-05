@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<toolset id="user_apps_toolset" template="false">
-   <tool app_file_path="./" handler_class="com.mathworks.appmanagement.desktop.ToolboxToolSetExtensionHandler" id="e456d9fb-ee9e-4344-9a89-6d3023aab7f6" label="BEST Robotics Outbreak" toolset_id="user_apps_toolset">
-      <callback>matlab.apputil.run('BESTRoboticsOutbreakAPP')</callback>
-      <summary>BEST Robotics 2020 Online game Outbreak.</summary>
-      <description>App for BEST Robotics 2020 Online game Outbreak. Find team resources and Simulink templates for the online game.</description>
-      <parent_tool id="my_apps" toolset_id="apps_toolset"/>
-   </tool>
-</toolset>
