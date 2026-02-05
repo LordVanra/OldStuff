@@ -8,7 +8,7 @@ ChargerHacks contains work for a hackathon I participated in.
 
 M3C has 2 scripts for a practice for a Math Competition.
 
-MATLAB and "MATLAB and Simulink" contain work from my robotics team in 7th grade. We participated in BEST Robotics, and made it to the state level.
+MATLAB and Simulink containswork from my robotics team in 7th grade. We participated in BEST Robotics, and made it to the state level.
 
 PoliSim was a Unity game that I never finished.
 
